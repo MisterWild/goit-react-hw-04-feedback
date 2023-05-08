@@ -1,0 +1,9 @@
+p {
+  font-weight: 700;
+  font-size: 20px;
+  color: red;
+}
+p > span {
+  font-size: 25px;
+  font-weight: 700;
+}
